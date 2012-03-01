@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  lesson_number: 1
+  part_name: MyString
+  weeks_number: 1
+  hours_count: 1
+  lesson_type: MyString
+  manual: MyString
+  student_tasks: MyString
+  student_homeworks: MyString
+  plan_id: 1
+
+two:
+  lesson_number: 1
+  part_name: MyString
+  weeks_number: 1
+  hours_count: 1
+  lesson_type: MyString
+  manual: MyString
+  student_tasks: MyString
+  student_homeworks: MyString
+  plan_id: 1

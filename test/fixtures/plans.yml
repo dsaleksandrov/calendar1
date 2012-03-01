@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  predmet: MyString
+  prepod: MyString
+  spec: MyString
+  grups: MyString
+  kurs: MyString
+  semestr: MyString
+  god: MyString
+  accepted: MyString
+  week_count: 1
+  lecture_count: 1
+  labs_count: 1
+  kurs_project: 1
+  itself_load: 1
+  literature: MyString
+
+two:
+  predmet: MyString
+  prepod: MyString
+  spec: MyString
+  grups: MyString
+  kurs: MyString
+  semestr: MyString
+  god: MyString
+  accepted: MyString
+  week_count: 1
+  lecture_count: 1
+  labs_count: 1
+  kurs_project: 1
+  itself_load: 1
+  literature: MyString
